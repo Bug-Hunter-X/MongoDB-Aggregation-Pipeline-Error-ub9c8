@@ -1,0 +1,2 @@
+# MongoDB Aggregation Pipeline Error
+This repository demonstrates a common error in MongoDB aggregation pipelines. The example shows an aggregation pipeline that is intended to group documents by a specific field and count the occurrences, sort the results by count, and limit the results to the top 10. However, the pipeline contains an error that leads to incorrect results. The solution provides a corrected version of the pipeline that produces the expected results.
